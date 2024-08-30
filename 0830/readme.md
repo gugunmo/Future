@@ -17,6 +17,7 @@ Windwos + S 키를 입력하고 그 후 Windows Powershell 를 실행시켜줍�
 그 다음 "wsl --install" 를 입력해서 우분투를 다운받아봅시다.
 이제 아래 사진처럼 "시스템을 다시 시작하면 변경 사항이 적용됩니다." 라는 말이 나올텐데 나오면 
 ![스크린샷(26)](https://github.com/user-attachments/assets/5c886e3a-81bc-4b9f-88d6-3bd009e745fd)
+
 "wsl --set-default-version 2" 이 코드를 입력시켜서 WSL파일의 버전을 바꿔줍니다. 그다음 재시작을 합시다.
 
 재시작을 하고나서는 이제 윈도우 터미널을 설치해야합니다.
