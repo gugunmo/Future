@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0388c49-046b-43cb-948f-fa07748fcf84)![image](https://github.com/user-attachments/assets/5a9b7b38-e6a4-49be-bf29-b23ce33be727)오늘은 윈도우에서 WSL2로 리눅스 설치 및 윈도우 터미널 설치를 하였습니다.
+오늘은 윈도우에서 WSL2로 리눅스 설치 및 윈도우 터미널 설치를 하였습니다.
 
 우선 WSL2를 설치를 해야하는데 WSL2는 윈도우 10 기준으로 20H1, 20H2, 21H1 혹은 그 보다 높은버전에서 WSL2 를 사용할수있습니다.
 버전을 확인하고 싶으시면 Windows + S 키를 입력하고 그 후 PC정보 를 검색해주시면 아래 화면과 같은 결과가 나옵니다.
