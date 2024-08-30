@@ -33,5 +33,11 @@ Windows + S 키를 눌러서 검색창을 띄우고 "Microsoft Store" 를 입력
 *만약 검색에서 안뜬다면 "Microsoft Store" 에서 실행시키거나, 아래 사진처럼 한글로 "터미널" 이라고 됬을수도 있습니다.
 ![스크린샷(29)](https://github.com/user-attachments/assets/8d15dc33-4dfe-4ddb-bb28-f55556bfdb82)
 
-이제 마지막으로 실행시킨후 화면을 봅시다.
+터미널을 실행시켜줍니다. (실행시켰을때 Windows Powershell 로 실행됩니다.)
 ![6](https://github.com/user-attachments/assets/e2da872d-2000-44d4-b010-765bbb97e97e)
+
+그다음 터미널에 "wsl --update" 를 입력해서 업데이트를 해줍시다.
+![7](https://github.com/user-attachments/assets/c6f690fa-af9c-40df-9d3f-7a3606b02888)
+
+이것으로 마무리 하겠습니다.
+
