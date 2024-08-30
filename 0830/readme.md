@@ -32,4 +32,4 @@ Windows + S 키를 눌러서 검색창을 띄우고 "Microsoft Store" 를 입력
 ![스크린샷(29)](https://github.com/user-attachments/assets/8d15dc33-4dfe-4ddb-bb28-f55556bfdb82)
 
 이제 마지막으로 실행시킨후 화면을 봅시다.
-![스크린샷(28)](https://github.com/user-attachments/assets/a1295d31-973a-4499-bdcf-f97e40a5ec77)
+![6](https://github.com/user-attachments/assets/e2da872d-2000-44d4-b010-765bbb97e97e)
