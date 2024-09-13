@@ -82,7 +82,8 @@ ls 디렉토리 내의 파일을 확인하는 명령어입니다.
 
 사진처럼 삭제 된것을 볼수 있습니다.
 
-Windows 를 삭제시켰다면 이제 cd 를 입력해 상위 디렉토리로 이동하고 난후 mkdir Windows 를 "home/username/" 위치의 하위 디렉토리로 만들어 줍시다.
+Windows 를 삭제시켰다면 mv를 이용해 봅시다.
+cd 를 입력해 상위 디렉토리로 이동하고 난후 mkdir Windows 를 "home/username/" 위치의 하위 디렉토리로 만들어 줍시다.
 
 ![스크린샷(67)](https://github.com/user-attachments/assets/6cc806ee-6e8b-4931-8d6d-26fea219e289)
 
