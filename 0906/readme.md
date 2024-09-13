@@ -25,7 +25,9 @@ sudo apt upgrade, sudo apt update 를 입력해줍시다.
 sudo apt install tree 를 입력해서 설치해줍시다.
 
 설치가 끝난 후에 tree를 입력하면 비어있는 것을 확인할수 있습니다.
+
 ![스크린샷(80)](https://github.com/user-attachments/assets/51dd01e0-c985-4811-9423-6cd48cd73b8f)
+
 
 tree 는 현재의 디렉토리에서 하위 디렉토리와, 파일들을 확인할수 있게해주는 명령어임으로
 현재 사용하고 있는 위치인 /home/(사용자이름) 에는 아무것도 진행하지 않았기에 안나오는 것이 맞습니다.
